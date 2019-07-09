@@ -1,6 +1,6 @@
 name: Luan Porfirio e Silva
 bio: Drinking one coffee at a time
-description: A blog about technology and stuff related
+description: ''
 external-image: false
 picture: assets/images/luan_avatar.png
 resume: true
@@ -19,20 +19,14 @@ instagram: lopes_porfirio
 facebook: 100009379809445
 email: luann.porfirio@gmail.com
 authors:
-  johndoe:
-    name: John Doe'
-    bio: A Man who travels the world eating noodles
+  luan:
+    name: Luan P e Silva
+    bio: Drinking one coffee at a time
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/luan_avatar.png
 width: normal
-projects: true
+publications: true
+projects: false
 about: true
 blog: true
 read-time: true
