@@ -4,7 +4,7 @@ description: ''
 external-image: false
 picture: assets/images/luan_avatar.png
 resume: true
-resume-external: true
+resume-external: false
 resume-url: assets/curriculum.pdf
 url: 'https://luanps.github.io'
 permalink: '/:title/'
