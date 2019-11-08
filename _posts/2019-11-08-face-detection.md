@@ -1,5 +1,5 @@
 ---
-title: 'YOLO-FD: YOLO for Face Detection (Ciarp, 2019)'
+title: 'YOLO-FD: YOLO for Face Detection (CIARP, 2019)'
 publications: true
 layout: post
 date: '2019-10-30 14:16:04'
